@@ -1,0 +1,1 @@
+A responsive Udemy-style homepage clone built using only HTML and CSS. Includes a semantic structure, custom navbar, category menu, recommended courses, topics section, popular courses, and a full footer. Crafted with clean styling and structured layouts to highlight front-end development and design fundamentals.
